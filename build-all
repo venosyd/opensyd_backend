@@ -1,0 +1,17 @@
+#!/bin/bash
+
+cd ..
+cd opensyd_commons/; ./build; cd ..
+
+cd opensyd_address/ ; ./build; cd ..
+cd opensyd_aws/; ./build; cd ..
+cd opensyd_firebase/ ; ./build; cd ..
+cd opensyd_gatekeeper/; ./build; cd ..
+cd opensyd_images/ ; ./build; cd ..
+cd opensyd_login/; ./build; cd ..
+cd opensyd_mail/ ; ./build; cd ..
+cd opensyd_pagseguro/; ./build; cd ..
+cd opensyd_repository/ ; ./build; cd ..
+cd opensyd_seeker/; ./build; cd ..
+
+cd opensyd_backend/; ./dockerize; cd ..

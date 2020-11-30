@@ -1,0 +1,85 @@
+### ------- SERVICES -------
+###
+### Seeker              7000
+### Repository          7020
+### Login               7030
+### Images              7040
+### Mail                7050
+### Address             7060
+### Logs                7070
+### WebsocketRS         8899
+
+###
+### INFRA SERVICES
+###
+
+## Seeker
+seeker:
+    class: com.venosyd.open.seeker.rest.SeekerRESTfulAPI
+    url: seeker
+    ip: "0.0.0.0"
+    port: "7000"
+    public_urls:
+        - ssi.localhost
+
+## Repository
+repository:
+    class: com.venosyd.open.repository.rest.RepositoryRESTfulAPI
+    url: repository
+    ip: "0.0.0.0"
+    port: "7020"
+    public_urls:
+        - repository.localhost
+
+## Login
+login:
+    class: com.venosyd.open.login.rest.LoginRESTfulAPI
+    url: login
+    ip: "0.0.0.0"
+    port: "7030"
+    public_urls:
+        - login.localhost
+
+## Address
+address:
+    class: com.venosyd.open.address.rest.AddressRESTfulAPI
+    url: address
+    ip: "0.0.0.0"
+    port: "7060"
+    public_urls:
+        - address.localhost
+
+## Images
+images:
+    class: com.venosyd.open.images.rest.ImagesRESTfulAPI
+    url: images
+    ip: "0.0.0.0"
+    port: "7040"
+    public_urls:
+        - images.localhost
+
+## Mail
+mail:
+    class: com.venosyd.open.mail.rest.MailRESTfulAPI
+    url: mail
+    ip: "0.0.0.0"
+    port: "7050"
+    public_urls:
+        - mail.localhost
+
+## Logs
+logs:
+    url: logs
+    ip: "0.0.0.0"
+    port: "7070"
+    public_urls:
+        - logs.localhost
+
+## Websocket Server
+ws-rs:
+    class: com.venosyd.open.backend.websocket.WebSocketRESTfulAPI
+    url: ws-rs
+    ip: "0.0.0.0"
+    port: "8899"
+    public_urls:
+        - ws.localhost

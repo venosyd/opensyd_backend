@@ -1,0 +1,6 @@
+#!/bin/bash
+
+PWD=`pwd`
+mvn -T 1.5C clean package docker:build -Dmaven.test.skip=true
+
+docker-gc

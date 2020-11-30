@@ -1,0 +1,28 @@
+name: ---------------
+
+version: '3.0.0'
+
+# pode ser MODULAR (servidor modular com todos os servicos)
+# ou MONOLITH (para um servico especifico)
+type: MODULAR
+
+# se o servidor for monolitico, coloque aqui o nome do servico
+standalone-service: login
+
+locations: 
+  ip: 0.0.0.0
+  http-port: '80'
+  https-port: '443'
+  http-dev-port: '8080'
+  https-dev-port: '8443'
+  ws-port: '8888'
+  wss-port: '9999'
+  ssi: http://0.0.0.0:7000/seeker
+
+sec:
+  key: ---------------
+
+mail:
+  authority: ---------------
+  login: ---------------
+  auth: ---------------

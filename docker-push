@@ -1,0 +1,4 @@
+#!/bin/sh
+
+docker tag opensyd_backend venosyd/opensyd_backend
+docker push venosyd/opensyd_backend
