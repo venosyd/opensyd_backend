@@ -13,7 +13,7 @@ import org.eclipse.jetty.servlet.ServletContextHandler;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         carrega uma instancia do GATEKEEPER insegura, usada geralmente para
  *         desenvolvimento

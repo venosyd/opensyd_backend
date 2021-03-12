@@ -8,7 +8,7 @@ import javax.ws.rs.core.Response;
 /**
  * @author sergio e. lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  */
 @Path("/")
 public class WebSocketRSImpl implements WebSocketRS {

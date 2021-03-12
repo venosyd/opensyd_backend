@@ -6,7 +6,7 @@ import org.eclipse.jetty.websocket.servlet.WebSocketServletFactory;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         integracao do servidor de websocket com o sistema
  */

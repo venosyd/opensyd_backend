@@ -9,7 +9,7 @@ import javax.ws.rs.core.Application;
 /**
  * @author sergio e. lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  */
 @ApplicationPath(WebSocketRS.WEBSOCKET_BASE_URI)
 public class WebSocketRESTfulAPI extends Application {

@@ -11,7 +11,7 @@ import org.eclipse.jetty.server.Server;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         levanta um servico em modo inseguro, seja para desenvolvimento ou
  *         quando esta em contexto quando tem um api gateway seguro fazendo a

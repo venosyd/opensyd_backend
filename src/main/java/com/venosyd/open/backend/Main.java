@@ -14,7 +14,7 @@ import com.venosyd.open.backend.unsecure.UnsecureWebSocketServer;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Porta de entrada, classe inicial ou init assim como desejar, do
  *         backend da venosyd

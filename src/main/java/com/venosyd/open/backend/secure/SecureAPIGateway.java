@@ -39,7 +39,7 @@ import org.eclipse.jetty.util.ssl.SslContextFactory;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Instancia o GATEKEEPER em modo seguro usando HTTPS, e com
  *         redirecionamento de HTTP para HTTPS

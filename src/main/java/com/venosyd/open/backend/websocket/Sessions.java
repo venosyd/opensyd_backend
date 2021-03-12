@@ -13,7 +13,7 @@ import org.eclipse.jetty.websocket.api.Session;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Objeto que armazena as sessoes dos websockets abertos. Facilita a
  *         comunicacao entre eles e o servidor

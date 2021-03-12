@@ -36,7 +36,7 @@ import org.eclipse.jetty.util.ssl.SslContextFactory;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Instancia um servico seguro, bastante usado em caso de servidor
  *         monolitico

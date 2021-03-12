@@ -37,7 +37,7 @@ import org.eclipse.jetty.util.ssl.SslContextFactory;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Carrega um servico websocket seguro
  */

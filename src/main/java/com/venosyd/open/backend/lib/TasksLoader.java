@@ -13,7 +13,7 @@ import com.venosyd.open.commons.log.Debuggable;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Carrega as tasks configuradas em assets/config/tasks.yaml e seu jar
  *         devidamente colocado em assets/modules

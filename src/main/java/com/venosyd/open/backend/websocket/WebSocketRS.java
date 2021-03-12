@@ -11,7 +11,7 @@ import com.venosyd.open.commons.util.RESTService;
 /**
  * @author sergio e. lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  */
 public interface WebSocketRS extends RESTService {
 

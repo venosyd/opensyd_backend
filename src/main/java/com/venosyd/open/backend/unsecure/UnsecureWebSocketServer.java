@@ -14,7 +14,7 @@ import org.eclipse.jetty.servlet.ServletHolder;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  */
 public class UnsecureWebSocketServer implements Debuggable {
 

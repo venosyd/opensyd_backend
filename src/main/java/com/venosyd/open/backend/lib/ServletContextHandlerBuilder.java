@@ -17,7 +17,7 @@ import org.glassfish.jersey.servlet.ServletContainer;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Carrega o servlet de acordo com as instrucoes passadas pelo objeto
  *         VenosydService.

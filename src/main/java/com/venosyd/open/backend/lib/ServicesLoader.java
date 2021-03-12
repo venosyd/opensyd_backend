@@ -10,7 +10,7 @@ import com.venosyd.open.commons.log.Debuggable;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Carrega informacoes sobre os servicos encontrados no arquivo
  *         assets/config/services.yaml

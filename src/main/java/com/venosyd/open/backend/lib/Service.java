@@ -11,7 +11,7 @@ import com.venosyd.open.commons.util.JSONUtil;
 /**
  * @author sergio lisan <sels@venosyd.com>
  * 
- *         venosyd © 2016-2020
+ *         venosyd © 2016-2021
  * 
  *         Objeto que carrega e armazena as informacoes dos servicos venosyd
  */
