@@ -4,7 +4,7 @@
     <!-- project data -->
     <groupId>com.venosyd.open</groupId>
     <artifactId>opensyd-backend</artifactId>
-    <version>3.0.0</version>
+    <version>3.1.0</version>
 
     <!-- /project data -->
     <packaging>jar</packaging>
@@ -102,17 +102,17 @@
         <dependency>
             <groupId>com.venosyd.open</groupId>
             <artifactId>opensyd-commons</artifactId>
-            <version>3.0.0</version> 
+            <version>3.1.0</version> 
         </dependency>
         <dependency>
             <groupId>com.venosyd.open</groupId>
             <artifactId>opensyd-seeker</artifactId>
-            <version>3.0.0</version>
+            <version>3.1.0</version>
         </dependency>
         <dependency>
             <groupId>com.venosyd.open</groupId>
             <artifactId>opensyd-gatekeeper</artifactId>
-            <version>3.0.0</version>
+            <version>3.1.0</version>
         </dependency>
     </dependencies>
 </project>
